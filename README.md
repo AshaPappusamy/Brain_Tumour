@@ -55,5 +55,10 @@ Tool / Library	Purpose
 Python	Programming language
 TensorFlow / Keras	Deep learning framework
 NumPy, PIL	Image processing
+
+
+This project gave me hands-on experience in implementing Deep Learning for medical image classification using MobileNet architecture. I learned how to handle image preprocessing, data augmentation, and class imbalance using class weights. I also explored different loss functions such as Categorical Crossentropy and Focal Loss to handle class imbalance more effectively.
+
+Through training and fine-tuning MobileNet, I understood how transfer learning, feature extraction, and fine-tuning deeper layers improve model performance. Deploying the trained model on Streamlit helped me connect the backend AI model with an interactive user interface for real-time brain tumor predictions.
 Streamlit	Web app deployment
 scikit-learn	Evaluation metrics
